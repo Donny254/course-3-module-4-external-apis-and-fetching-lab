@@ -21,6 +21,7 @@
     "jest": "^29.7.0"
   },
   "dependencies": {
-    "jest-environment-jsdom": "^30.0.5"
+    "jest-environment-jsdom": "^30.0.5",
+    "mocha": "^11.7.5"
   }
 }
